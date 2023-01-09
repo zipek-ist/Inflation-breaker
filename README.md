@@ -1,5 +1,5 @@
 # Inflation-breaker
-# Python
+# With Python
 This project is a price scraping and saving bot 
 Using html parsing methods for searching 20 consumable products, (especially food)
 Updating the pandas dataset then xlsx file.
